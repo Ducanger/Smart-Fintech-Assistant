@@ -1,0 +1,56 @@
+ion-card {
+  background: white;
+  ion-card-header {
+    display: flex;
+    #bell-container {
+      background: rgba(195, 198, 197, 0.5);
+      border-radius: 10px;    
+      margin-right: 1.139rem;
+      padding: 0.75rem;
+    }
+  }
+  border-radius: 20px;
+  .button-container {
+    width: 100%;
+    height: 2.138rem;
+    display: flex;
+    background-color: black;
+    font-weight: bold;
+  }
+  ion-card-content {
+    padding-left: 6.063rem
+  }
+  #div1 {
+    background-color: var(--ion-color-light);
+    width: 100%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #div2 {
+    background-color: var(--ion-color-primary);
+    width: 100%;
+    color: var(--ion-color-primary-contrast);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .transfer-info {
+    color: var(--ion-color-primary);
+  }
+  ion-button {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+  }
+}
+
+ion-modal {
+  --height: auto;
+  --border-radius: 20px;
+}
+
+ion-modal::part(backdrop) {
+  background: transparent;
+}

@@ -1,0 +1,20 @@
+<ion-item
+  lines="none"
+  [id]="chat?.id"
+  [class]="chat?.sender != current_user_id ? 'sender' : 'user'"
+>
+  <ion-label
+    [slot]="chat?.sender == current_user_id ? 'end' : 'start'"
+    class="ion-text-wrap"
+  >
+    <ion-text>{{ chat?.message }}</ion-text>
+    <ion-note>
+      <small>{{ chat?.createdAt?.toDate() | date : "HH:mm" }}</small>
+      <ion-icon
+        [color]="chat?.sender == current_user_id ? 'light' : 'primary'"
+        name="checkmark-done-outline"
+      ></ion-icon>
+    </ion-note>
+  </ion-label>
+  <app-transfer-button [hidden]="!transferInfoDetected" [transferAccountNumber]="transferAccountNumber"></app-transfer-button>
+</ion-item>

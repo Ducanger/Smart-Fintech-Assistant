@@ -1,0 +1,26 @@
+<ion-card>
+  <ion-card-header>
+    <div id="bell-container">
+      <ion-icon name="notifications-outline" size="large" color="primary"></ion-icon>
+    </div>
+    <ion-card-title>Chuyển tiền đến {{ transferRecipient }}</ion-card-title>
+    <!-- <ion-card-subtitle>Card Subtitle</ion-card-subtitle> -->
+  </ion-card-header>
+
+  <ion-card-content>
+    <p>
+      STK: <span class="transfer-info">{{ transferAccountNumber }}</span>
+    </p>
+    <p>
+      Ngân hàng: <span class="transfer-info">{{ transferBankName }}</span>
+    </p>
+    <p>
+      Số tiền: <span class="transfer-info">{{ transferAmount }}</span>
+    </p>
+  </ion-card-content>
+
+  <div class="button-container">
+    <div id="div1" (click)="cancel()">Không</div>
+    <div id="div2" (click)="confirm()">Có</div>
+  </div>
+</ion-card>

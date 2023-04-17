@@ -1,0 +1,61 @@
+VietinBank, viettin, vietin, vtb
+Vietcombank, vietcombank, vietcom, vcb
+BIDV, bidv
+Agribank, agri
+OCB, ocb
+MBBank, mbbank, mbank, mb
+Techcombank, techcombank, techcom, tech, tcb
+ACB, acb
+VPBank, vpbank, vpb, vp
+TPBank, tpbank, tpb, tp
+Sacombank, sacombank, sacom, scb
+HDBank, hdbank, hd
+VietCapitalBank, vietcapitalbank, vietcapital
+SCB, scb
+VIB, vib
+SHB, shb
+Eximbank, eximbank, exim
+MSB, msb
+CAKE, cake
+Ubank, ubank
+Timo, timo
+ViettelMoney, viettelmoney, viettel, vtmn
+VNPTMoney, vnptmoney
+SaigonBank, saigonbank
+BacABank, bacabank
+PVcomBank, pvcombank, pvb
+Oceanbank, oceanbank
+NCB, ncb
+ShinhanBank, shinhanbank
+ABBANK, abbank
+VietABank, vietabank
+NamABank, namabank
+PGBank, pgbank
+VietBank, vietbank
+BaoVietBank, baovietbank
+SeABank, seabank
+COOPBANK, coopbank
+LienVietPostBank, lienvietpostbank
+KienLongBank, kienlongbank
+KBank, kbank
+VRB, vrb
+DBSBank, dbsbank
+Woori, woori
+KookminHN, kookminhn
+KookminHCM, kookminhcm
+CBBank, cbbank
+Nonghyup, nonghyup
+CIMB, cimb
+DongABank, dongabank
+GPBank, gpbank
+HongLeong, hongleong
+UnitedOverseas, unitedoverseas
+HSBC, hsbc
+IBKHN, ibkhn
+PublicBank, publicbank
+IBKHCM, ibkhcm
+IndovinaBank, indovinabank
+StandardChartered, standardchartered
+Momo, momo
+ZaloPay, zalopay
+Moca, moca

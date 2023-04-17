@@ -1,0 +1,81 @@
+Chào bạn, tối qua mình đã xem một bộ phim rất hay đấy. Bạn có thích xem phim không?
+Hôm nay trời đẹp quá, bạn có muốn đi dạo phố cùng mình không?
+Bạn đã ăn cơm chưa? Mình đang tính đặt một phần đồ ăn để mang về ăn tối.
+Chào bạn, mình mới mua một đôi giày mới rất đẹp đấy. Bạn có muốn xem không?
+Bạn có thấy mùi nước hoa của mình hơi nặng không? Mình đang lo lắng có gì đó không ổn.
+Mình đang cảm thấy căng thẳng quá, bạn có thể gợi ý cho mình một số hoạt động giải trí được không?
+Hôm nay mình đang tìm kiếm một quán cà phê mới để thử, bạn có thể giới thiệu cho mình một quán ngon không?
+Bạn có thấy bộ trang phục mới của mình hợp không? Mình đang muốn biết ý kiến của bạn.
+Chào bạn, mình mới đọc một cuốn sách rất hay đấy. Bạn có hứng thú đọc không?
+Bạn có biết có một sự kiện âm nhạc sắp diễn ra không? Mình muốn đi cùng bạn.
+Bạn đã nghe bản nhạc mới của ca sĩ yêu thích của mình chưa? Nó rất hay đấy.
+Mình muốn tìm hiểu về các hoạt động thể thao tại địa phương, bạn có thể giúp mình không?
+Hôm nay mình có thể ghé thăm nhà bạn được không? Mình muốn xem một số sách mà bạn có.
+Bạn có muốn đi chơi cùng mình không? Mình đang muốn tìm kiếm một địa điểm mới để khám phá.
+Bạn có thấy mình bị mất tập trung vào công việc không? Mình đang cần một chút lời khuyên.
+Bạn đã thử đồ ăn mới của nhà hàng mới khai trương chưa? Mình đang rất tò mò.
+Mình đang cần một số lời khuyên về việc làm sao để nói trực tiếp với người khác về cảm xúc của mình.
+Chào bạn, bạn đang làm gì vậy? Mình mới đến đây.
+Hôm nay trời đẹp quá, bạn có muốn đi chơi không?
+Bạn có nhớ món ăn mà mình ăn cùng nhau ở quán đó không?
+Mình đang cần một lời khuyên về việc chọn quà cho người yêu của mình, bạn có thể giúp mình không?
+Bạn đã nghe bản nhạc mới của ca sĩ yêu thích của mình chưa? Nó rất hay đấy.
+Mình đang cần một người để nói chuyện, bạn có thể trò chuyện với mình không?
+Bạn có thể gợi ý cho mình một số quán cà phê mới để ghé thăm không?
+Hôm nay mình có thể ghé thăm nhà bạn được không? Mình muốn xem một số bộ phim mà bạn có.
+Bạn có thấy mình bị mất tập trung vào công việc không? Mình đang cần một chút lời khuyên.
+Mình đang muốn tìm kiếm một quán ăn ngon để ăn tối, bạn có thể giới thiệu cho mình một số quán được không?
+Bạn có muốn đi du lịch cùng mình không? Mình đang muốn tìm hiểu về một số địa điểm mới.
+Chào bạn, mình đang cảm thấy vui vẻ đấy. Bạn thế nào rồi?
+Bạn có thể giúp mình tìm kiếm một địa điểm mới để đi chơi không?
+Bạn có thấy mình cần một người để trò chuyện không? Mình đang cảm thấy cô đơn.
+Mình đang cần một lời khuyên về việc chọn quà sinh nhật cho người bạn của mình, bạn có thể giúp mình không?
+Bạn có thể giúp mình tìm hiểu về một số hoạt động giải trí mới không?
+Chào bạn, bạn đã có kế hoạch gì cho ngày hôm nay chưa?
+Tôi mới xem một bộ phim rất hay, bạn có thể gợi ý cho tôi một bộ phim hay để xem không?
+Bạn có thể chia sẻ cho tôi công thức nấu ăn của món ăn yêu thích của bạn được không?
+Tôi đang tìm kiếm một cuốn sách mới để đọc, bạn có thể giới thiệu cho tôi một cuốn hay không?
+Tôi muốn đi du lịch trong dịp lễ, bạn có thể giúp tôi tìm hiểu về một số địa điểm thú vị được không?
+Bạn có thể chia sẻ cho tôi một bài hát hay mà bạn thường nghe không?
+Tôi muốn tìm hiểu về các hoạt động vui chơi giải trí tại thành phố, bạn có thể giúp tôi được không?
+Bạn có thể giúp tôi tìm hiểu về chính sách bảo hiểm xe hơi được không?
+Tôi đang tìm kiếm một quán cà phê mới để thử, bạn có thể giới thiệu cho tôi một quán ngon không?
+Tôi muốn tìm hiểu về các bộ phim hoạt hình hay cho trẻ em, bạn có thể giúp tôi được không?
+Bạn có thể chia sẻ cho tôi một bài viết hay về sức khỏe được không?
+Tôi muốn tìm hiểu về các hoạt động vận động phù hợp với tuổi của mình, bạn có thể giúp tôi được không?
+Bạn có thể giới thiệu cho tôi một địa điểm du lịch thú vị ở Việt Nam được không?
+Tôi muốn tìm hiểu về công nghệ mới nhất, bạn có thể giúp tôi được không?
+Bạn có thể chia sẻ cho tôi một chủ đề thú vị để trò chuyện không?
+Tôi muốn tìm hiểu về các trang phục thời trang mới nhất, bạn có thể giúp tôi được không?
+Bạn có thể giúp tôi tìm hiểu về các sự kiện nghệ thuật đang diễn ra ở thành phố không?
+Tôi đang tìm kiếm một người
+Chào bạn, bạn khỏe không?
+Chào bạn, tôi khỏe, còn bạn thì sao?
+Tôi cũng khỏe, cảm ơn. Bạn đã làm gì trong ngày hôm nay?
+Tôi đã đi làm và sau đó mua đồ ăn tối cho gia đình. Còn bạn thì sao?
+Tôi đã đi chơi với một vài người bạn và sau đó tới thư viện đọc sách. Bây giờ tôi đang thực hiện một số công việc nhà.
+Nghe có vẻ thú vị đấy. Bạn có kế hoạch gì cho cuối tuần này không?
+Tôi dự định đi picnic với gia đình vào ngày Chủ nhật. Còn bạn thì sao?
+Tôi chưa có kế hoạch cụ thể, nhưng tôi sẽ cùng với bạn khi bạn đi picnic vào Chủ nhật.
+Chào bạn, bạn đã ăn sáng chưa?
+Chào bạn, tôi đã ăn sáng rồi. Bạn thì sao?
+Tôi vừa mới ăn xong. Hôm nay là thứ hai, mà thứ ba tới là ngày sinh nhật của bạn đúng không?
+Ừ, đúng vậy. Tôi không nghĩ bạn nhớ được.
+Tất nhiên là nhớ rồi, bạn là người bạn thân của tôi mà. Bạn có kế hoạch gì cho ngày sinh nhật của mình chưa?
+Tôi chưa nghĩ ra gì cả. Có lẽ tôi sẽ đi ăn tối với gia đình và bạn bè.
+Đó là một ý tưởng tuyệt vời. Tôi sẽ cùng bạn đi chơi sau đó nhé.
+Tuyệt, tôi rất mong được đi chơi cùng bạn.
+Bạn có muốn tôi tặng bạn món quà gì không?
+Không cần đâu bạn, bạn đã là món quà đủ quý giá rồi.
+Cảm ơn bạn. Chúc mừng sinh nhật và mong bạn có một ngày sinh nhật thật tuyệt vời.
+Bạn có thể cho mình biết số tài khoản của bạn để mình có thể chuyển khoản không?
+Bạn muốn mình chuyển cho bạn số tiền bao nhiêu?
+Bạn muốn mình chuyển tiền cho bạn vào thời điểm nào?
+Bạn có thể cho mình biết thông tin ngân hàng của bạn để mình có thể chuyển khoản không?
+Bạn muốn mình chuyển khoản cho bạn bằng cách nào? Ví dụ như qua Internet Banking, hay qua ngân hàng?
+Bạn muốn mình chuyển khoản cho bạn từ tài khoản nào?
+Bạn muốn mình chuyển tiền cho bạn với mục đích gì?
+Bạn muốn mình chuyển khoản cho bạn bằng số tiền lớn hay nhỏ?
+Bạn có thể cho mình biết số tiền cần chuyển khoản của bạn được không?
+Bạn có yêu cầu gì đặc biệt khi chuyển khoản không?
+Bạn muốn mình chuyển tiền cho bạn đến ngân hàng nào?

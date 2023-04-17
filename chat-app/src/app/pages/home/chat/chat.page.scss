@@ -1,0 +1,30 @@
+ion-content {
+  background: linear-gradient(
+    180deg,
+    rgba(198, 255, 221, 0.5) 0%,
+    rgba(251, 215, 134, 0.5) 50%,
+    rgba(247, 121, 125, 0.5) 100%
+  );
+  ion-list {
+    background: transparent;
+  }
+}
+ion-footer {
+  ion-toolbar {
+    padding: 0 3px;
+    ion-textarea {
+      border: 1px solid var(--ion-color-medium);
+      border-radius: 20px;
+      margin: 0.5vh 0;
+      padding-left: 0.938rem;
+    }
+    ion-buttons {
+      ion-fab-button {
+        --box-shadow: none;
+      }
+      .rotate45up {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+}
