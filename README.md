@@ -7,6 +7,8 @@ PayViet was completed in 48h by Circus team at [JUNCTIONX HANOI 2023](https://ww
 <img width="20%" height="20%" src="PayViet-logo.png">
 </p>
 
+* Video [demo](https://drive.google.com/file/d/1NyDqpUrv9sJJ4ex169V7WWIhZ_O5u5bH/view?usp=sharing).
+
 ## Chat App
 Run
 
